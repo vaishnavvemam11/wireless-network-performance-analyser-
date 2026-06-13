@@ -1,0 +1,6 @@
+{
+  "name": "Wireless Network Performance Analyser",
+  "description": "An intelligent system to monitor, evaluate, and optimize wireless communication and IoT network performance using real-time insights and AI-driven latency optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
